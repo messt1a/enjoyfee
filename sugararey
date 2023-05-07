@@ -1,6 +1,3 @@
-0425-0502
-vmess://ws+tls:afda23e0-e34b-11ed-b933-205c6d5f5d78-0@make-usaa15.pages.dev:443/?host=make-usaa15.pages.dev&path=/p4eorqa8&allowInsecure=true&tlsServerName=make-usaa15.pages.dev#USA-FD1-0501
-vmess://ws+tls:afda23e0-e34b-11ed-b933-205c6d5f5d78-0@us-15.0rd.net:443/?host=whatsapp.com&path=/p4eorqa8&allowInsecure=true&tlsServerName=whatsapp.com#usa-0501
 0425-0525
 trojan-go://dfe62450-e34c-11ed-93e3-1239d0255272@ruangguru.com:443/?type=ws&sni=ca-trojan.bonds.id&host=ca-trojan.bonds.id&path=%2Fhowdy#trojan-go-0525
 trojan://opentunnel.net-woareyou@cat-1.opensvr.net:443?allowInsecureCertificate=1&allowInsecure=1&sni=apk-store.org#Trojan-0525
@@ -14,3 +11,37 @@ trojan-go://e353e320-e2eb-11ed-84c5-1239d0255272@nextone-abc.pages.dev:443/?type
 trojan-go://23dd7040-e2f0-11ed-9db4-1239d0255272@singleleaf.pages.dev:443/?type=ws&sni=singleleaf.pages.dev&host=singleleaf.pages.dev&path=%2Fhowdy#trojan-go-0525-3-FD
 trojan-go://7ad8ca80-e2ed-11ed-bf5f-1239d0255272@nextone-abc.pages.dev:443/?type=ws&sni=nextone-abc.pages.dev&host=nextone-abc.pages.dev&path=%2Fhowdy#trojan-go-0525-4-FD
 trojan-go://68c1ba60-e2ee-11ed-bc8a-1239d0255272@singleleaf.pages.dev:443/?type=ws&sni=singleleaf.pages.dev&host=singleleaf.pages.dev&path=%2Fhowdy#trojan-go-0525-5-FD
+0504-0604
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@ie1.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇮🇪 爱尔兰01
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@jp8.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇯🇵 日本08
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@us5.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇺🇸 美国05
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@sg10.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇸🇬 新加坡10
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@jp7.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇯🇵 日本07
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@jp6.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇯🇵 日本06|流媒体GPT
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@sg3.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇸🇬 新加坡03|流媒体GPT
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@us4.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇺🇸 美国04
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@us3.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇺🇸 美国03
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@sg9.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇸🇬 新加坡09
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@sg4.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇸🇬 新加坡04|流媒体GPT
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@sg6.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇸🇬 新加坡|推荐6|流媒体GPT
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@kr4.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇰🇷 韩国04
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@jp1.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇯🇵 日本01|流媒体GPT
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@ca1.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇨🇦 加拿大01
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@fr1.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇫🇷 法国01
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@jp3.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇯🇵 日本03
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@kr1.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇰🇷 韩国01
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@sg5.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇸🇬 新加坡05|流媒体GPT|V2
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@jp5.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇯🇵 日本05|流媒体GPT
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@jp2.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇯🇵 日本02|流媒体GPT|V2
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@sg12.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇸🇬 新加坡12
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@sg8.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇸🇬 新加坡08
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@sg1.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇸🇬 新加坡01|流媒体GPT
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@us1.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇺🇸 美国01|GPT
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@jp10.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇯🇵 日本10
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@us2.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇺🇸 美国02|V2
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@kr2.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇰🇷 韩国02
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@gb2.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇬🇧 英国02
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@kr3.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇰🇷 韩国03
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@jp9.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇯🇵 日本09
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@gb1.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇬🇧 英国01
+trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@jp4.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇯🇵 日本04
