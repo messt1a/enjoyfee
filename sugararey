@@ -80,3 +80,5 @@ trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@jp7.microsoft-orgwly.vip:443?flow=
 trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@sg6.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇸🇬 新加坡|推荐6|流媒体GPT
 trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@us3.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇺🇸 美国03
 trojan://d222b5a1-f79c-4dfc-981e-16a6b8850b2a@gb1.microsoft-orgwly.vip:443?flow=&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp&header=none&host=&path=&alpn=&fingerprint=#🇬🇧 英国01
+0526
+vmess://ws+tls:7757E99E-75C9-46D5-854D-4065BF372100-0@170.114.45.23:443/?host=Amsterdam.kotick.site&path=/speedtest&tlsServerName=Amsterdam.kotick.site#
