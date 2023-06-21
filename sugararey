@@ -1,3 +1,11 @@
+0621
+trojan://opentunnel.net-sdghj33grtg@ukt-2.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=fvtyubx#T1
+trojan://opentunnel.net-fhgjs34n@cat-1.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=ffuixhue#T2
+trojan://opentunnel.net-ghm4zrt@ust-2.opensvr.net:443?allowInsecureCertificate=1&allowInsecure=1&sni=ferbgtj3#T3
+vmess://ws+tls:b25cbc3a-d7e8-4fe4-b7a0-d3d18985bcf4-0@zfc.windowsupdate1.com:443/?host=usfh3.pqjc.buzz&path=/pq/usfh3?ed%3D2048&allowInsecure=true&tlsServerName=usfh3.pqjc.buzz#T4
+trojan://f5075d6e-c65b-4133-b4fa-301ce5ba1fa9@hk1.gsjc.cfd:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=20-212-60-88.nhost.00cdn.com#T5
+trojan://b25cbc3a-d7e8-4fe4-b7a0-d3d18985bcf4@163.123.192.57:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=163.123.192.57#T6
+
 0528-0628
 trojan://0f14b910-fd3e-11ed-8c95-1239d0255272@www.moviecrumbs.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=ca-trojan.bonds.id#tr1_1
 trojan-go://0f14b910-fd3e-11ed-8c95-1239d0255272@www.moviecrumbs.net:443/?type=ws&sni=ca-trojan.bonds.id&host=ca-trojan.bonds.id&path=%2Fhowdy#tr1_2
@@ -24,10 +32,3 @@ trojan://opentunnel.net-tunely@cat-1.opensvr.net:443?allowInsecureHostname=1&all
 vmess://ws+tls:a40d34c6-b77c-4648-9210-3e8d2f4226b5-16-0@usv-4.openv2ray.com:443/?host=animeflick.net&path=/opentunnel?user%3Dopentunnel.net-waiting&allowInsecure=true&tlsServerName=animeflick.net#tr1_23
 trojan://opentunnel.net-yarmdls@ust-2.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.moviecrumbs.net#tr1_24
 
-0621
-trojan://opentunnel.net-sdghj33grtg@ukt-2.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=fvtyubx#T1
-trojan://opentunnel.net-fhgjs34n@cat-1.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=ffuixhue#T2
-trojan://opentunnel.net-ghm4zrt@ust-2.opensvr.net:443?allowInsecureCertificate=1&allowInsecure=1&sni=ferbgtj3#T3
-vmess://ws+tls:b25cbc3a-d7e8-4fe4-b7a0-d3d18985bcf4-0@zfc.windowsupdate1.com:443/?host=usfh3.pqjc.buzz&path=/pq/usfh3?ed%3D2048&allowInsecure=true&tlsServerName=usfh3.pqjc.buzz#T4
-trojan://f5075d6e-c65b-4133-b4fa-301ce5ba1fa9@hk1.gsjc.cfd:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=20-212-60-88.nhost.00cdn.com#T5
-trojan://b25cbc3a-d7e8-4fe4-b7a0-d3d18985bcf4@163.123.192.57:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=163.123.192.57#T6
