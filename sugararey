@@ -6,29 +6,12 @@ trojan://f5075d6e-c65b-4133-b4fa-301ce5ba1fa9@hk1.gsjc.cfd:443?allowInsecureHost
 trojan://b25cbc3a-d7e8-4fe4-b7a0-d3d18985bcf4@163.123.192.57:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=163.123.192.57#T5
 vmess://ws+tls:b25cbc3a-d7e8-4fe4-b7a0-d3d18985bcf4-0@zfc.windowsupdate1.com:443/?host=usfh3.pqjc.buzz&path=/pq/usfh3?ed%3D2048&allowInsecure=true&tlsServerName=usfh3.pqjc.buzz#US_美国
 
-0528-0628
-trojan://0f14b910-fd3e-11ed-8c95-1239d0255272@www.moviecrumbs.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=ca-trojan.bonds.id#tr1_1
-trojan-go://0f14b910-fd3e-11ed-8c95-1239d0255272@www.moviecrumbs.net:443/?type=ws&sni=ca-trojan.bonds.id&host=ca-trojan.bonds.id&path=%2Fhowdy#tr1_2
-trojan://0f14b910-fd3e-11ed-8c95-1239d0255272@ca-trojan.bonds.id:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.moviecrumbs.net#tr1_3
-trojan://c0c63ae0-fd3c-11ed-8d60-1239d0255272@www.canva.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=nl.test3.net#tr1_4
-trojan-go://c0c63ae0-fd3c-11ed-8d60-1239d0255272@www.canva.com:443/?type=ws&sni=nl.test3.net&host=nl.test3.net&path=%2Fhowdy#tr1_5
-trojan://dad14170-fd32-11ed-a4fb-1239d0255272@www.greenmangaming.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=fr.test3.net#tr1_6
-trojan-go://dad14170-fd32-11ed-a4fb-1239d0255272@www.greenmangaming.com:443/?type=ws&sni=fr.test3.net&host=fr.test3.net&path=%2Fhowdy#tr1_7
-trojan://dad14170-fd32-11ed-a4fb-1239d0255272@fr.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.greenmangaming.com#tr1_8
-trojan://f9b49ee0-fd31-11ed-8489-1239d0255272@www.videvo.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=ca-trojan.bonds.id#tr1_9
-trojan-go://f9b49ee0-fd31-11ed-8489-1239d0255272@www.videvo.net:443/?type=ws&sni=ca-trojan.bonds.id&host=ca-trojan.bonds.id&path=%2Fhowdy#tr1_10
-trojan://f9b49ee0-fd31-11ed-8489-1239d0255272@ca-trojan.bonds.id:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.videvo.net#tr1_11
-trojan://dad14170-fd32-11ed-a4fb-1239d0255272@fr.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.greenmangaming.com#tr1_12
-trojan://f9b49ee0-fd31-11ed-8489-1239d0255272@ca-trojan.bonds.id:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.videvo.net#tr1_13
-trojan://9da8f700-fd30-11ed-b1d1-1239d0255272@pixabay.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=ca-trojan.bonds.id#tr1_14
-trojan-go://9da8f700-fd30-11ed-b1d1-1239d0255272@pixabay.com:443/?type=ws&sni=ca-trojan.bonds.id&host=ca-trojan.bonds.id&path=%2Fhowdy#tr1_15
-trojan://9da8f700-fd30-11ed-b1d1-1239d0255272@ca-trojan.bonds.id:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=pixabay.com#tr1_16
-trojan://afb6c220-fd2f-11ed-979e-1239d0255272@www.crazygames.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=nl.test3.net#tr1_17
-trojan-go://afb6c220-fd2f-11ed-979e-1239d0255272@www.crazygames.com:443/?type=ws&sni=nl.test3.net&host=nl.test3.net&path=%2Fhowdy#tr1_18
-trojan://opentunnel.net-newdday@cat-1.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.flexclip.com#tr1_19
-trojan://opentunnel.net-nicesmell@ust-2.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.canva.com#tr1_20
-trojan://opentunnel.net-readyltt@cat-1.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=moviemora.com#tr1_21
-trojan://opentunnel.net-tunely@cat-1.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.jamendo.com#tr1_22
-vmess://ws+tls:a40d34c6-b77c-4648-9210-3e8d2f4226b5-16-0@usv-4.openv2ray.com:443/?host=animeflick.net&path=/opentunnel?user%3Dopentunnel.net-waiting&allowInsecure=true&tlsServerName=animeflick.net#tr1_23
-trojan://opentunnel.net-yarmdls@ust-2.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.moviecrumbs.net#tr1_24
+0709-0809
+trojan://opentunnel.net-syehbg@cat-1.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#opentunnel.net-syehbg
+trojan://opentunnel.net-xhcnvy@cat-1.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#opentunnel.net-xhcnvy
+trojan://opentunnel.net-chdytaio@cat-1.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#opentunnel.net-chdytaio
+trojan://opentunnel.net-cxdret@cat-1.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#opentunnel.net-cxdret
+trojan://opentunnel.net-cdhngt@cat-1.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#opentunnel.net-cdhngt
+trojan://opentunnel.net-cvngh@cat-1.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#opentunnel.net-cvngh
+
 
