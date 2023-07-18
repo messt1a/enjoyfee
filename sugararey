@@ -1,11 +1,3 @@
-0621
-trojan://opentunnel.net-sdghj33grtg@ukt-2.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=fvtyubx#T1
-trojan://opentunnel.net-fhgjs34n@cat-1.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=ffuixhue#T2
-trojan://opentunnel.net-ghm4zrt@ust-2.opensvr.net:443?allowInsecureCertificate=1&allowInsecure=1&sni=ferbgtj3#T3
-trojan://f5075d6e-c65b-4133-b4fa-301ce5ba1fa9@hk1.gsjc.cfd:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=20-212-60-88.nhost.00cdn.com#T4
-trojan://b25cbc3a-d7e8-4fe4-b7a0-d3d18985bcf4@163.123.192.57:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=163.123.192.57#T5
-vmess://ws+tls:b25cbc3a-d7e8-4fe4-b7a0-d3d18985bcf4-0@zfc.windowsupdate1.com:443/?host=usfh3.pqjc.buzz&path=/pq/usfh3?ed%3D2048&allowInsecure=true&tlsServerName=usfh3.pqjc.buzz#US_美国
-
 0709-0809
 trojan://opentunnel.net-syehbg@cat-1.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#opentunnel.net-syehbg
 trojan://opentunnel.net-xhcnvy@cat-1.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#opentunnel.net-xhcnvy
@@ -14,4 +6,14 @@ trojan://opentunnel.net-cxdret@cat-1.opensvr.net:443?allowInsecureHostname=1&all
 trojan://opentunnel.net-cdhngt@cat-1.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#opentunnel.net-cdhngt
 trojan://opentunnel.net-cvngh@cat-1.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#opentunnel.net-cvngh
 
+
+0718
+trojan://7a73f1dc97a70905870c0c0484b12145@trs22.bolab.net:443?sni=trs22.bolab.net#Relay_%F0%9F%87%AF%F0%9F%87%B5JP-%F0%9F%87%AF%F0%9F%87%B5JP_73
+trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info#Relay_%F0%9F%87%BA%F0%9F%87%B8US-%F0%9F%87%BA%F0%9F%87%B8US_226
+trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@170.187.134.190:8443?sni=170-187-134-190.ipv4.rush.ml#_11
+vmess://tcp:94c5ef37-4d82-49f9-c624-f01259374a17-64@140.83.63.38:24445/#🇦🇺AU_15
+vmess://tcp:26d94b8c-f502-4f66-c33d-bc9af2af8e24-0@64.64.233.110:46398/#🇺🇸US_118
+vmess://tcp:7dba01e9-0fba-4c38-da20-a0a414cd16b5-0@209.38.197.170:1081/#🇺🇸US_142
+vmess://tcp:b0ed6eb7-dc30-4897-df50-c2c1d4ee6e91-0@131.186.41.192:26297/#🇺🇸US_143
+vmess://tcp:d47d7135-0954-46ab-a190-17b6c8630a85-0@141.147.153.244:41545/#🇺🇸US_178
 
