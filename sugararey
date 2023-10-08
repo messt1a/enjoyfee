@@ -1,5 +1,10 @@
 0908
 trojan://5cfebde0-4e4b-11ee-a83f-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=regtrh#T1
-trojan://opentunnel.net-dghfgh56r56@ukt-2.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=ertdghsdfsgrththr#2
-trojan://opentunnel.net-rdgfer223@ukt-2.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=tryhnfj6uk#3
-trojan://opentunnel.net-fdg3gnft@ust-2.opensvr.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=frewgthwer#4
+
+1008
+trojan://36709140-658d-11ee-ab5f-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=hfgmjghset#T2
+trojan://f4520c80-658b-11ee-b698-1239d0255272@de1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=polkjndfc#T3
+trojan://524661f0-658e-11ee-a0c6-1239d0255272@us1.test3.net:443?allowInsecureCertificate=1&allowInsecure=1&sni=gfhnsweaf#T4
+trojan://opentunnel.net-hnmiuzddf@ukt-1.opensvr.net:443?allowInsecureCertificate=1&allowInsecure=1&sni=rtyubmnj#T5
+
+vmess://ws+tls:7640a1e7-9701-428e-a4b2-19b3e7dd6f9f-64@107.167.16.85:443/?host=www.51109057.xyz&path=/path/080822272914&tlsServerName=www.51109057.xyz#加SF
